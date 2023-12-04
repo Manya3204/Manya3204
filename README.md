@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manya3204
-- 👀 I’m interested in web development and python programming
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in web development and java programming
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
